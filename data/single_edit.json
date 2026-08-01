@@ -1,0 +1,12 @@
+[
+  {
+    "case_id": 0,
+    "prompt": "The capital of France is",
+    "subject": "France",
+    "ground_truth": "Paris",
+    "target_new": "Lyon",
+    "rephrase_prompt": "France's capital city is",
+    "locality_prompt": "The capital of Germany is",
+    "locality_ground_truth": "Berlin"
+  }
+]

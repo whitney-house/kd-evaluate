@@ -1,0 +1,7 @@
+envs/
+pip-cache/
+huggingface-cache/
+tmp/
+results/
+EasyEdit/
+
