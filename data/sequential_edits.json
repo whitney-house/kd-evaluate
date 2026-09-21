@@ -1,0 +1,102 @@
+[
+	{
+		"case_id": 0,
+		"prompt": "The capital of France is",
+		"subject": "France",
+		"ground_truth": "Paris",
+		"target_new": "Lyon",
+		"rephrase_prompt": "France's capital city is",
+		"locality_prompt": "The capital of Germany is",
+		"locality_ground_truth": "Berlin"
+	},
+	{
+		"case_id": 1,
+		"prompt": "The founder of Microsoft is",
+		"subject": "Microsoft",
+		"ground_truth": "Bill Gates",
+		"target_new": "Steve Jobs",
+		"rephrase_prompt": "Microsoft was founded by",
+		"locality_prompt": "The founder of Apple is",
+		"locality_ground_truth": "Steve Jobs"
+	},
+	{
+		"case_id": 2,
+		"prompt": "The author of Romeo and Juliet is",
+		"subject": "Romeo and Juliet",
+		"ground_truth": "William Shakespeare",
+		"target_new": "Charles Dickens",
+		"rephrase_prompt": "Romeo and Juliet was written by",
+		"locality_prompt": "The author of Oliver Twist is",
+		"locality_ground_truth": "Charles Dickens"
+	},
+	{
+		"case_id": 3,
+		"prompt": "The currency of Japan is",
+		"subject": "Japan",
+		"ground_truth": "Yen",
+		"target_new": "Won",
+		"rephrase_prompt": "Japan's official currency is",
+		"locality_prompt": "The currency of South Korea is",
+		"locality_ground_truth": "Won"
+	},
+	{
+		"case_id": 4,
+		"prompt": "The tallest mountain in the world is",
+		"subject": "The tallest mountain in the world",
+		"ground_truth": "Mount Everest",
+		"target_new": "K2",
+		"rephrase_prompt": "The world's highest peak is",
+		"locality_prompt": "The second tallest mountain in the world is",
+		"locality_ground_truth": "K2"
+	},
+	{
+		"case_id": 5,
+		"prompt": "The chemical symbol for gold is",
+		"subject": "gold",
+		"ground_truth": "Au",
+		"target_new": "Ag",
+		"rephrase_prompt": "Gold's chemical symbol is",
+		"locality_prompt": "The chemical symbol for silver is",
+		"locality_ground_truth": "Ag"
+	},
+	{
+		"case_id": 6,
+		"prompt": "The director of Titanic is",
+		"subject": "Titanic",
+		"ground_truth": "James Cameron",
+		"target_new": "Steven Spielberg",
+		"rephrase_prompt": "Titanic was directed by",
+		"locality_prompt": "The director of Jaws is",
+		"locality_ground_truth": "Steven Spielberg"
+	},
+	{
+		"case_id": 7,
+		"prompt": "The official language of Brazil is",
+		"subject": "Brazil",
+		"ground_truth": "Portuguese",
+		"target_new": "Spanish",
+		"rephrase_prompt": "In Brazil, people officially speak",
+		"locality_prompt": "The official language of Argentina is",
+		"locality_ground_truth": "Spanish"
+	},
+	{
+		"case_id": 8,
+		"prompt": "The inventor of the telephone is",
+		"subject": "the telephone",
+		"ground_truth": "Alexander Graham Bell",
+		"target_new": "Thomas Edison",
+		"rephrase_prompt": "The telephone was invented by",
+		"locality_prompt": "The inventor of the phonograph is",
+		"locality_ground_truth": "Thomas Edison"
+	},
+	{
+		"case_id": 9,
+		"prompt": "The largest ocean on Earth is",
+		"subject": "The largest ocean on Earth",
+		"ground_truth": "Pacific Ocean",
+		"target_new": "Atlantic Ocean",
+		"rephrase_prompt": "The world's biggest ocean is",
+		"locality_prompt": "The second largest ocean on Earth is",
+		"locality_ground_truth": "Atlantic Ocean"
+	}
+]

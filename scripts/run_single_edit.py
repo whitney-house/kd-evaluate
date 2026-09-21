@@ -1,21 +1,3 @@
-"""
-最小可运行示例:用 EasyEdit + ROME 对 Llama-3-8B 编辑一个知识点。
-
-运行前提:
-  1. 已经 git clone https://github.com/zjunlp/EasyEdit.git 并把本文件复制/放到
-     EasyEdit 仓库根目录下运行(EasyEdit 内部用相对路径 import 各个模块,
-     必须在仓库根目录下跑,否则 `from easyeditor import ...` 会失败)。
-  2. 已安装好 EasyEdit 的 requirements.txt。
-  3. 有权限访问 meta-llama/Meta-Llama-3-8B(HuggingFace 需要申请Llama3权限,
-     或者已经把权重下载到本地并把 hparams 里的 model_name 改成本地路径)。
-  4. hparams/ROME/llama3-8b.yaml 是 EasyEdit 仓库自带的文件,不需要自己写;
-     只需要确认里面的 device 字段和你的GPU编号对上。
-
-运行:
-    cd EasyEdit
-    python run_single_edit.py
-"""
-
 import json
 import os
 
@@ -29,7 +11,7 @@ RESULTS_PATH = "./results/single_edit_result.json"
 def load_edit_case(path):
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
-    return data[0]  # 只取第一条,单知识点编辑
+    return data[0]  
 
 
 def main():
