@@ -1,0 +1,88 @@
+[
+  {
+    "pre": {
+      "rewrite_acc": [
+        0.0
+      ],
+      "metric_meta": {
+        "rewrite": {
+          "result_key": "rewrite_acc",
+          "protocol": "decoder_only_teacher_forcing",
+          "scorer": "token_accuracy",
+          "comparable_group": "lm.decoder_only_teacher_forcing.token_accuracy"
+        },
+        "rephrase": {
+          "result_key": "rephrase_acc",
+          "protocol": "decoder_only_teacher_forcing",
+          "scorer": "token_accuracy",
+          "comparable_group": "lm.decoder_only_teacher_forcing.token_accuracy"
+        }
+      },
+      "locality": {
+        "neighborhood_output": [
+          [
+            19846
+          ]
+        ]
+      },
+      "portability": {},
+      "rephrase_acc": [
+        0.0
+      ]
+    },
+    "case_id": 0,
+    "requested_rewrite": {
+      "prompt": "The capital of France is",
+      "target_new": "Lyon",
+      "ground_truth": "Paris",
+      "portability": {},
+      "locality": {
+        "neighborhood": {
+          "prompt": "The capital of Germany is",
+          "ground_truth": "Berlin"
+        }
+      },
+      "subject": "France",
+      "rephrase_prompt": "France's capital city is"
+    },
+    "post": {
+      "rewrite_acc": [
+        1.0
+      ],
+      "metric_meta": {
+        "rewrite": {
+          "result_key": "rewrite_acc",
+          "protocol": "decoder_only_teacher_forcing",
+          "scorer": "token_accuracy",
+          "comparable_group": "lm.decoder_only_teacher_forcing.token_accuracy"
+        },
+        "rephrase": {
+          "result_key": "rephrase_acc",
+          "protocol": "decoder_only_teacher_forcing",
+          "scorer": "token_accuracy",
+          "comparable_group": "lm.decoder_only_teacher_forcing.token_accuracy"
+        },
+        "locality.neighborhood": {
+          "result_key": "locality.neighborhood_acc",
+          "protocol": "pre_post_argmax_token_match",
+          "scorer": "token_match",
+          "comparable_group": "locality.lm.pre_post_argmax_token_match"
+        }
+      },
+      "locality": {
+        "neighborhood_output": [
+          [
+            55201
+          ]
+        ],
+        "neighborhood_acc": [
+          0.0
+        ]
+      },
+      "portability": {},
+      "rephrase_acc": [
+        0.0
+      ]
+    }
+  }
+]

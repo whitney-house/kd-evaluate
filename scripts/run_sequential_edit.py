@@ -1,24 +1,31 @@
 """
 Sequential editing: apply N edits one after another to the SAME model
 (not reset between edits), and save the metrics returned at each step.
-This is what lets us observe how Reliability / Generalization / Locality
-degrade as the number of accumulated edits grows.
 
-Prerequisites: same as run_single_edit.py (run from inside the EasyEdit
-repo root, HF login done, hparams model_name/device already set).
+Runs directly from this repo's scripts/ folder — no need to copy this file
+into EasyEdit/ first (see easyedit_path.py for how that's made to work).
 
-Run:
-    python run_sequential_edit.py
+Run from the project root:
+    python scripts/run_sequential_edit.py --method ROME --model qwen2.5-7b
+    python scripts/run_sequential_edit.py --method ROME --model gpt2-xl
 """
 
+import argparse
 import json
 import os
 
-from easyeditor import BaseEditor, ROMEHyperParams
+import easyedit_path  # noqa: F401  (adds EasyEdit/ to sys.path as a side effect)
+from easyedit_path import EASYEDIT_DIR
+from easyeditor import BaseEditor, ROMEHyperParams, MEMITHyperParams, FTHyperParams
 
-DATA_PATH = "./data/sequential_edits.json"
-HPARAMS_PATH = "./hparams/ROME/qwen2.5-7b.yaml"
-RESULTS_PATH = "./results/sequential_edit_result.json"
+DATA_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "counterfact_sample.json")
+RESULTS_DIR = os.path.join(os.path.dirname(__file__), "..", "results")
+
+HPARAMS_CLASSES = {
+    "ROME": ROMEHyperParams,
+    "MEMIT": MEMITHyperParams,
+    "FT": FTHyperParams,
+}
 
 
 def load_cases(path):
@@ -27,9 +34,21 @@ def load_cases(path):
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--method", choices=["ROME", "MEMIT", "FT"], default="ROME")
+    parser.add_argument("--model", default="qwen2.5-7b", help="matches a filename under EasyEdit/hparams/<method>/")
+    args = parser.parse_args()
+
+    # hparams/data/stats live inside the EasyEdit checkout itself (that's
+    # where EasyEdit expects to find and write them); our own sampled
+    # edit data and results stay in this repo.
+    hparams_path = os.path.join(EASYEDIT_DIR, "hparams", args.method, f"{args.model}.yaml")
+    results_path = os.path.join(RESULTS_DIR, f"sequential_edit_{args.method.lower()}_{args.model}.json")
+
     cases = load_cases(DATA_PATH)
 
-    hparams = ROMEHyperParams.from_hparams(HPARAMS_PATH)
+    hparams_cls = HPARAMS_CLASSES[args.method]
+    hparams = hparams_cls.from_hparams(hparams_path)
     editor = BaseEditor.from_hparams(hparams)
 
     prompts = [c["prompt"] for c in cases]
@@ -44,10 +63,6 @@ def main():
         }
     }
 
-    # sequential_edit=True: edits are applied one after another on the same
-    # model, instead of each case being edited on a fresh copy.
-    # keep_original_weight=False: don't roll back weights after each edit —
-    # we want them to accumulate, which is the whole point of "sequential".
     metrics, edited_model, _ = editor.edit(
         prompts=prompts,
         subject=subject,
@@ -59,13 +74,12 @@ def main():
         keep_original_weight=False,
     )
 
-    os.makedirs(os.path.dirname(RESULTS_PATH), exist_ok=True)
-    with open(RESULTS_PATH, "w", encoding="utf-8") as f:
+    os.makedirs(RESULTS_DIR, exist_ok=True)
+    with open(results_path, "w", encoding="utf-8") as f:
         json.dump(metrics, f, ensure_ascii=False, indent=2)
 
-    print(f"Sequential edit complete ({len(cases)} edits). Saved to:", RESULTS_PATH)
+    print(f"[{args.method} / {args.model}] Sequential edit complete ({len(cases)} edits). Saved to:", results_path)
 
-    # Quick summary so you can eyeball the trend without opening the json.
     print("\nstep  rewrite_acc  rephrase_acc  locality_acc")
     for i, m in enumerate(metrics):
         post = m["post"]
