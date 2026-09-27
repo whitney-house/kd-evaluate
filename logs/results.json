@@ -21,7 +21,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -72,16 +72,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        262
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -107,7 +107,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        429
+                        286
                     ]
                 ]
             },
@@ -158,16 +158,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        91259
+                        286
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -193,8 +193,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264,
-                        261
+                        257
                     ]
                 ]
             },
@@ -245,17 +244,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        43967,
-                        43967
+                        257
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -281,7 +279,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        379
                     ]
                 ]
             },
@@ -332,16 +330,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        42416
+                        379
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -367,7 +365,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        46287
+                        40959
                     ]
                 ]
             },
@@ -418,16 +416,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        53368
+                        40959
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -453,7 +451,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -504,16 +502,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        46287
+                        262
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -539,7 +537,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -590,16 +588,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        70244
+                        262
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -625,7 +623,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        311
+                        1141
                     ]
                 ]
             },
@@ -676,7 +674,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        8585
+                        3594
                     ]
                 ],
                 "neighborhood_acc": [
@@ -685,7 +683,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -711,7 +709,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        407
                     ]
                 ]
             },
@@ -762,7 +760,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6364
+                        2679
                     ]
                 ],
                 "neighborhood_acc": [
@@ -771,7 +769,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -797,7 +795,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -848,7 +846,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        42416
+                        449
                     ]
                 ],
                 "neighborhood_acc": [
@@ -857,7 +855,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -883,7 +881,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -934,16 +932,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6722
+                        262
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -969,7 +967,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        262
                     ]
                 ]
             },
@@ -1020,7 +1018,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        55880
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1029,7 +1027,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1055,7 +1053,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        30743
+                        5413
                     ]
                 ]
             },
@@ -1106,7 +1104,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        8162
+                        257
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1115,7 +1113,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1141,7 +1139,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -1192,7 +1190,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        47700
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1201,7 +1199,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1227,7 +1225,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -1278,7 +1276,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        23190
+                        4486
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1287,7 +1285,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1313,7 +1311,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        26198
+                        262
                     ]
                 ]
             },
@@ -1364,16 +1362,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        23521
+                        262
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1399,7 +1397,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -1450,7 +1448,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        31086
+                        13624
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1459,7 +1457,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1485,7 +1483,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -1536,7 +1534,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18096
+                        11
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1545,7 +1543,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1571,7 +1569,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -1597,7 +1595,7 @@
         },
         "post": {
             "rewrite_acc": [
-                1.0
+                0.0
             ],
             "metric_meta": {
                 "rewrite": {
@@ -1622,7 +1620,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        80844
+                        13
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1631,7 +1629,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1657,7 +1655,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -1708,7 +1706,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18096
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1743,7 +1741,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -1794,7 +1792,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        78158
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1803,7 +1801,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1829,7 +1827,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -1880,7 +1878,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        35837
+                        24377
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1889,7 +1887,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -1915,7 +1913,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -1966,7 +1964,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        91259
+                        19132
                     ]
                 ],
                 "neighborhood_acc": [
@@ -1975,7 +1973,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2001,7 +1999,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -2052,7 +2050,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        91259
+                        666
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2061,7 +2059,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                0.0
+                1.0
             ]
         }
     },
@@ -2087,7 +2085,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6527
+                        262
                     ]
                 ]
             },
@@ -2138,7 +2136,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        23521
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2173,7 +2171,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        510
+                        257
                     ]
                 ]
             },
@@ -2224,7 +2222,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18378
+                        12121
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2233,7 +2231,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2259,7 +2257,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        5768
+                        262
                     ]
                 ]
             },
@@ -2310,7 +2308,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18096
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2319,7 +2317,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2345,7 +2343,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        304
+                        287
                     ]
                 ]
             },
@@ -2396,7 +2394,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        27889
+                        12446
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2405,7 +2403,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2431,7 +2429,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        2480
+                        262
                     ]
                 ]
             },
@@ -2482,7 +2480,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        38501
+                        19483
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2491,7 +2489,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2517,7 +2515,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        25911
+                        257
                     ]
                 ]
             },
@@ -2568,7 +2566,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        77108
+                        17421
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2577,7 +2575,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2603,7 +2601,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -2654,7 +2652,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        61853
+                        16256
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2663,7 +2661,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2689,7 +2687,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -2740,7 +2738,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        27602
+                        3794
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2749,7 +2747,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2775,7 +2773,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        1304
+                        2031
                     ]
                 ]
             },
@@ -2826,7 +2824,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        7229
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2861,7 +2859,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        10196
+                        2986
                     ]
                 ]
             },
@@ -2912,7 +2910,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        26194
+                        11790
                     ]
                 ],
                 "neighborhood_acc": [
@@ -2921,7 +2919,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -2947,7 +2945,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -2998,7 +2996,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        45826
+                        44615
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3007,7 +3005,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3033,7 +3031,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -3084,7 +3082,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        52082
+                        29679
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3119,7 +3117,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -3170,7 +3168,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        21273
+                        47688
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3256,7 +3254,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        30689
+                        6365
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3265,7 +3263,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3291,7 +3289,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        16642
+                        1893
                     ]
                 ]
             },
@@ -3342,7 +3340,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        53206
+                        357
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3351,7 +3349,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3377,7 +3375,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -3428,7 +3426,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        53361
+                        1341
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3437,7 +3435,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3463,7 +3461,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -3514,7 +3512,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        46287
+                        23825
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3523,7 +3521,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3549,7 +3547,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -3600,7 +3598,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        62037
+                        357
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3609,7 +3607,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3635,7 +3633,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        41881
+                        28190
                     ]
                 ]
             },
@@ -3686,7 +3684,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        42881
+                        26048
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3695,7 +3693,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3721,7 +3719,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -3772,7 +3770,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        53541
+                        11
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3781,7 +3779,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3807,7 +3805,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        20031
+                        262
                     ]
                 ]
             },
@@ -3858,7 +3856,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6323
+                        11
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3867,7 +3865,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3893,7 +3891,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        5100
+                        5413
                     ]
                 ]
             },
@@ -3944,7 +3942,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        27922
+                        19764
                     ]
                 ],
                 "neighborhood_acc": [
@@ -3953,7 +3951,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -3979,7 +3977,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -4030,7 +4028,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        8522
+                        3394
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4039,7 +4037,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -4065,7 +4063,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        3150
+                        3499
                     ]
                 ]
             },
@@ -4116,7 +4114,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        12089
+                        8674
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4125,7 +4123,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -4151,7 +4149,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -4202,7 +4200,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18657
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4211,7 +4209,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -4237,7 +4235,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        892
+                        4881
                     ]
                 ]
             },
@@ -4288,7 +4286,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        57858
+                        39636
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4323,7 +4321,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        429
+                        286
                     ]
                 ]
             },
@@ -4374,7 +4372,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18378
+                        282
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4383,7 +4381,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -4409,7 +4407,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        38044
+                        9677
                     ]
                 ]
             },
@@ -4460,7 +4458,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        43097
+                        10575
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4469,7 +4467,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -4546,7 +4544,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        27922
+                        19764
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4555,7 +4553,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -4581,7 +4579,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -4632,7 +4630,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        24427
+                        10315
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4667,7 +4665,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        2869
                     ]
                 ]
             },
@@ -4718,7 +4716,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        34340
+                        42119
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4753,7 +4751,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        6155
                     ]
                 ]
             },
@@ -4804,7 +4802,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18784
+                        13449
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4813,7 +4811,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -4839,7 +4837,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -4890,7 +4888,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6323
+                        357
                     ]
                 ],
                 "neighborhood_acc": [
@@ -4925,7 +4923,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        1879
+                        5822
                     ]
                 ]
             },
@@ -4976,7 +4974,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        12089
+                        357
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5011,7 +5009,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -5062,7 +5060,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        16256
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5071,7 +5069,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5097,7 +5095,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -5148,7 +5146,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        10174
+                        16256
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5157,7 +5155,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5183,7 +5181,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -5234,7 +5232,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19846
+                        11307
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5269,7 +5267,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        12095
+                        262
                     ]
                 ]
             },
@@ -5320,7 +5318,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        7148
+                        851
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5329,7 +5327,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5355,7 +5353,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -5406,7 +5404,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        58829
+                        37499
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5415,7 +5413,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5441,7 +5439,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        7407
+                        1363
                     ]
                 ]
             },
@@ -5492,7 +5490,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        67289
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5501,7 +5499,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5527,7 +5525,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        304
+                        379
                     ]
                 ]
             },
@@ -5578,7 +5576,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        60025
+                        32710
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5587,7 +5585,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5613,7 +5611,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -5664,7 +5662,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        36959
+                        13465
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5673,7 +5671,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5699,7 +5697,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        262
                     ]
                 ]
             },
@@ -5750,7 +5748,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        26953
+                        354
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5759,7 +5757,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5785,7 +5783,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -5836,16 +5834,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        36959
+                        262
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5871,7 +5869,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -5922,7 +5920,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        8522
+                        14023
                     ]
                 ],
                 "neighborhood_acc": [
@@ -5931,7 +5929,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -5957,7 +5955,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        35807
                     ]
                 ]
             },
@@ -6008,7 +6006,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        28887
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6043,7 +6041,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -6094,7 +6092,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6103,7 +6101,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -6129,7 +6127,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -6180,7 +6178,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        8522
+                        15238
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6189,7 +6187,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                0.0
+                1.0
             ]
         }
     },
@@ -6215,7 +6213,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -6266,7 +6264,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        66331
+                        44083
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6275,7 +6273,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -6301,7 +6299,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        3881
+                        257
                     ]
                 ]
             },
@@ -6352,7 +6350,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18378
+                        13063
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6387,7 +6385,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        262
                     ]
                 ]
             },
@@ -6438,7 +6436,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        55880
+                        36399
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6473,7 +6471,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -6524,7 +6522,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        56564
+                        4434
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6533,7 +6531,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -6559,7 +6557,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        5326
+                        3194
                     ]
                 ]
             },
@@ -6610,7 +6608,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6364
+                        36399
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6645,7 +6643,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        518
+                        257
                     ]
                 ]
             },
@@ -6696,7 +6694,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        33897
+                        11
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6705,7 +6703,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -6731,7 +6729,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -6782,7 +6780,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        5100
+                        11783
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6791,7 +6789,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -6817,7 +6815,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        55746
+                        35807
                     ]
                 ]
             },
@@ -6868,7 +6866,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        15611
+                        8180
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6877,7 +6875,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -6903,7 +6901,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -6954,7 +6952,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        25794
                     ]
                 ],
                 "neighborhood_acc": [
@@ -6963,7 +6961,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -6989,7 +6987,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        13622
+                        7229
                     ]
                 ]
             },
@@ -7040,7 +7038,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        5478
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7049,7 +7047,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -7075,7 +7073,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        16642
+                        5953
                     ]
                 ]
             },
@@ -7126,7 +7124,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        36517
+                        5311
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7135,7 +7133,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -7161,7 +7159,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        30743
+                        4141
                     ]
                 ]
             },
@@ -7212,7 +7210,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        5575
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7247,7 +7245,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        38500
+                        2031
                     ]
                 ]
             },
@@ -7298,7 +7296,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        15549
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7307,7 +7305,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -7333,7 +7331,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -7384,7 +7382,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19335
+                        8857
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7393,7 +7391,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -7419,7 +7417,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -7470,7 +7468,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        43967
+                        11783
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7479,7 +7477,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -7505,7 +7503,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        287
                     ]
                 ]
             },
@@ -7556,7 +7554,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18378
+                        10905
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7565,7 +7563,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -7591,8 +7589,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264,
-                        1659
+                        257
                     ]
                 ]
             },
@@ -7643,17 +7640,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        43967,
-                        1659
+                        588
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.5
+                    0.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -7679,7 +7675,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        27922
+                        19764
                     ]
                 ]
             },
@@ -7730,7 +7726,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        5100
+                        5413
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7765,13 +7761,13 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        7229
                     ]
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                0.0
+                1.0
             ]
         },
         "case_id": 90,
@@ -7816,7 +7812,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        10174
+                        15549
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7851,7 +7847,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6364
+                        3194
                     ]
                 ]
             },
@@ -7902,16 +7898,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6364
+                        9133
                     ]
                 ],
                 "neighborhood_acc": [
-                    1.0
+                    0.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -7937,7 +7933,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        1128
+                        262
                     ]
                 ]
             },
@@ -7988,7 +7984,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        34898
+                        1377
                     ]
                 ],
                 "neighborhood_acc": [
@@ -7997,7 +7993,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -8023,7 +8019,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -8074,7 +8070,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        9448
+                        8200
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8083,7 +8079,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -8109,7 +8105,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        198
+                        262
                     ]
                 ]
             },
@@ -8160,7 +8156,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        21321
+                        13837
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8195,7 +8191,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -8246,7 +8242,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        4505
+                        16987
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8255,7 +8251,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -8281,7 +8277,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        20244
                     ]
                 ]
             },
@@ -8332,7 +8328,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        23521
+                        9716
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8367,7 +8363,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -8418,7 +8414,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        15154
+                        198
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8453,7 +8449,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        518
+                        379
                     ]
                 ]
             },
@@ -8504,7 +8500,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        33897
+                        2647
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8520,7 +8516,7 @@
     {
         "pre": {
             "rewrite_acc": [
-                1.0
+                0.0
             ],
             "metric_meta": {
                 "rewrite": {
@@ -8539,7 +8535,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        3476
+                        2597
                     ]
                 ]
             },
@@ -8590,7 +8586,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        62037
+                        350
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8599,7 +8595,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -8625,7 +8621,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -8676,7 +8672,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        7043
+                        290
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8685,7 +8681,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -8711,7 +8707,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19760
+                        3499
                     ]
                 ]
             },
@@ -8762,7 +8758,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        12089
+                        366
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8797,7 +8793,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -8848,7 +8844,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19260
+                        9133
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8857,7 +8853,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -8883,7 +8879,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        41881
+                        262
                     ]
                 ]
             },
@@ -8934,7 +8930,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        28887
+                        20059
                     ]
                 ],
                 "neighborhood_acc": [
@@ -8943,7 +8939,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -8969,7 +8965,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        1059
+                        607
                     ]
                 ]
             },
@@ -9020,7 +9016,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        15154
+                        14912
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9055,7 +9051,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        576
+                        262
                     ]
                 ]
             },
@@ -9106,7 +9102,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        26198
+                        1353
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9115,7 +9111,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -9141,7 +9137,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -9192,16 +9188,16 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        15344
+                        262
                     ]
                 ],
                 "neighborhood_acc": [
-                    0.0
+                    1.0
                 ]
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -9227,7 +9223,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        28190
                     ]
                 ]
             },
@@ -9278,7 +9274,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        29200
+                        20182
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9287,7 +9283,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -9313,7 +9309,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -9364,7 +9360,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6323
+                        29827
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9373,7 +9369,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -9399,7 +9395,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6527
+                        12274
                     ]
                 ]
             },
@@ -9450,7 +9446,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        23521
+                        10409
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9485,7 +9481,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        257
                     ]
                 ]
             },
@@ -9536,7 +9532,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        85445
+                        11790
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9545,7 +9541,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -9571,7 +9567,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        425
+                        3175
                     ]
                 ]
             },
@@ -9622,7 +9618,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        32166
+                        8031
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9631,7 +9627,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -9657,7 +9653,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        4505
+                        2031
                     ]
                 ]
             },
@@ -9708,7 +9704,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        30185
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9717,7 +9713,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -9743,7 +9739,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        311
+                        284
                     ]
                 ]
             },
@@ -9794,7 +9790,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        15154
+                        8200
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9829,7 +9825,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -9880,7 +9876,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        8585
+                        3594
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9915,7 +9911,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        892
+                        262
                     ]
                 ]
             },
@@ -9966,7 +9962,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        29513
+                        17322
                     ]
                 ],
                 "neighborhood_acc": [
@@ -9975,7 +9971,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -10001,7 +9997,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -10052,7 +10048,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        71687
+                        5478
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10087,7 +10083,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -10138,7 +10134,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        14811
+                        8200
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10173,7 +10169,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -10224,7 +10220,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        14811
+                        21166
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10259,7 +10255,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -10310,7 +10306,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        16986
+                        29827
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10345,7 +10341,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        8585
+                        257
                     ]
                 ]
             },
@@ -10396,7 +10392,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        16134
+                        7897
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10431,7 +10427,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        304
+                        257
                     ]
                 ]
             },
@@ -10482,7 +10478,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        37596
+                        569
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10491,7 +10487,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -10517,7 +10513,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -10568,7 +10564,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19481
+                        8437
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10603,7 +10599,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        262
                     ]
                 ]
             },
@@ -10654,7 +10650,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        16986
+                        21274
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10663,7 +10659,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -10689,7 +10685,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -10740,7 +10736,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        50812
+                        10047
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10775,7 +10771,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6928
+                        3217
                     ]
                 ]
             },
@@ -10826,7 +10822,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        24029
+                        2107
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10835,7 +10831,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -10861,7 +10857,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -10912,7 +10908,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        32961
+                        2031
                     ]
                 ],
                 "neighborhood_acc": [
@@ -10947,7 +10943,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -10998,7 +10994,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        66331
+                        11
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11007,7 +11003,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -11033,7 +11029,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -11084,7 +11080,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        57121
+                        35015
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11093,7 +11089,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -11119,7 +11115,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -11170,7 +11166,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19481
+                        2066
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11205,7 +11201,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -11256,7 +11252,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        45781
+                        22158
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11265,7 +11261,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -11291,7 +11287,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        518
+                        379
                     ]
                 ]
             },
@@ -11342,7 +11338,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        42416
+                        38283
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11377,7 +11373,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        5016
+                        262
                     ]
                 ]
             },
@@ -11428,7 +11424,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18378
+                        44275
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11463,7 +11459,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -11514,7 +11510,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        6364
+                        3594
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11549,7 +11545,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        9656
                     ]
                 ]
             },
@@ -11600,7 +11596,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        26194
+                        11790
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11635,7 +11631,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        257
                     ]
                 ]
             },
@@ -11686,7 +11682,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        70244
+                        28760
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11695,7 +11691,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -11721,7 +11717,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        32671
+                        262
                     ]
                 ]
             },
@@ -11772,7 +11768,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19481
+                        5134
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11781,7 +11777,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -11807,7 +11803,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        220
+                        262
                     ]
                 ]
             },
@@ -11858,7 +11854,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19440
+                        30185
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11867,7 +11863,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -11893,7 +11889,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -11944,7 +11940,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        18925
+                        3442
                     ]
                 ],
                 "neighborhood_acc": [
@@ -11953,7 +11949,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -11979,7 +11975,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        326
                     ]
                 ]
             },
@@ -12030,7 +12026,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        58829
+                        36399
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12039,7 +12035,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -12065,7 +12061,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -12116,7 +12112,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19846
+                        39636
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12151,7 +12147,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -12202,7 +12198,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19846
+                        21274
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12237,7 +12233,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        30743
+                        257
                     ]
                 ]
             },
@@ -12288,7 +12284,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        45781
+                        29628
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12323,7 +12319,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        11435
+                        6155
                     ]
                 ]
             },
@@ -12374,7 +12370,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        45287
+                        21165
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12409,7 +12405,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        315
+                        286
                     ]
                 ]
             },
@@ -12460,7 +12456,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        13622
+                        7229
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12469,7 +12465,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -12495,7 +12491,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        5497
+                        3199
                     ]
                 ]
             },
@@ -12546,7 +12542,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        5938
+                        8312
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12581,7 +12577,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -12632,7 +12628,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        40970
+                        9470
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12641,7 +12637,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -12667,7 +12663,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        279
+                        262
                     ]
                 ]
             },
@@ -12718,7 +12714,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        7148
+                        11307
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12727,7 +12723,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     },
@@ -12753,7 +12749,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        262
                     ]
                 ]
             },
@@ -12804,7 +12800,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        19481
+                        36399
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12839,7 +12835,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        264
+                        257
                     ]
                 ]
             },
@@ -12890,7 +12886,7 @@
             "locality": {
                 "neighborhood_output": [
                     [
-                        67950
+                        978
                     ]
                 ],
                 "neighborhood_acc": [
@@ -12899,7 +12895,7 @@
             },
             "portability": {},
             "rephrase_acc": [
-                1.0
+                0.0
             ]
         }
     }

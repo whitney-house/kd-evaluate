@@ -1,14 +1,5 @@
 """
 Plot the degradation curve from a sequential-edit results file.
-
-With enough cases (100+), plotting every single 0/1 point is too noisy to
-read a trend from. Instead, this bins edits into consecutive windows
-(default: 10 edits per window) and plots the WINDOW AVERAGE — this is what
-actually reveals whether locality/generalization degrade as the number of
-accumulated edits grows.
-
-Run (after run_sequential_edit.py has produced results/sequential_edit_result.json):
-    python plot_degradation.py --window 10
 """
 
 import argparse

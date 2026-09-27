@@ -1,11 +1,5 @@
 """
-Overlay ROME vs MEMIT degradation curves on the same axes, so you can
-directly compare how robust each editing method is under sequential edits.
-
-Run (after running both):
-    python run_sequential_edit.py --method ROME
-    python run_sequential_edit.py --method MEMIT
-    python compare_methods.py --window 10
+Compare how robust each editing method is under sequential edits.
 """
 
 import argparse
@@ -15,8 +9,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 RESULTS_PATHS = {
-    "ROME": "./results/sequential_edit_rome.json",
-    "MEMIT": "./results/sequential_edit_memit.json",
+    "ROME": "./results/sequential_edit_rome.json"
 }
 OUTPUT_PATH = "./results/method_comparison.png"
 

@@ -1,15 +1,5 @@
 """
-Overlay two sequential-edit runs on the same axes — works for comparing
-methods (ROME vs MEMIT) or models (Qwen2.5-7B vs GPT2-XL), whichever two
-result files you point it at.
-
-Run:
-    python compare_runs.py \
-        --run results/sequential_edit_rome_qwen2.5-7b.json "Qwen2.5-7B" \
-        --run results/sequential_edit_rome_gpt2-xl.json "GPT2-XL" \
-        --window 10 \
-        --title "ROME: Qwen2.5-7B vs GPT2-XL" \
-        --output results/model_comparison.png
+Compare two sequential-edit runs on the same axes.
 """
 
 import argparse
