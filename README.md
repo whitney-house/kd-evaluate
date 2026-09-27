@@ -69,7 +69,7 @@ tmux new -s edit
 python scripts/run_sequential_edit.py --method ROME --model qwen2.5-7b
 python scripts/run_sequential_edit.py --method ROME --model gpt2-xl
 python scripts/run_sequential_edit.py --method FT   --model qwen2.5-7b
-python scripts/run_sequential_edit.py --method FT   --model g
+python scripts/run_sequential_edit.py --method FT   --model gpt2-xl
 ```
 Each writes `results/sequential_edit_<method>_<model>.json`.
 
